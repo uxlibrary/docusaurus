@@ -1,0 +1,35 @@
+{
+  "name": "docusaurus-2-website",
+  "version": "2.0.0-alpha.56",
+  "private": true,
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.0.0-alpha.56",
+    "@docusaurus/plugin-ideal-image": "^2.0.0-alpha.56",
+    "@docusaurus/plugin-client-redirects": "^2.0.0-alpha.56",
+    "@docusaurus/preset-classic": "^2.0.0-alpha.56",
+    "@docusaurus/theme-live-codeblock": "^2.0.0-alpha.56",
+    "clsx": "^1.1.1",
+    "color": "^3.1.2",
+    "npm-to-yarn": "^1.0.0-2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
