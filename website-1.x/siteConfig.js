@@ -11,11 +11,11 @@ const users = require('./data/users');
 const siteConfig = {
   title: 'Docusaurus',
   tagline: 'Easy to Maintain Open Source Documentation Websites',
-  url: 'https://docusaurus.io',
+  url: 'https://uxlibrary.github.io', //updated
   baseUrl: '/',
-  organizationName: 'facebook',
-  projectName: 'docusaurus',
-  cname: 'docusaurus.io',
+  organizationName: 'UX Library', //updated
+  projectName: 'uxlibrary.github.io', //updated
+  cname: 'uxlibrary.github.io', //updated
   noIndex: false,
   users,
   editUrl: 'https://github.com/facebook/docusaurus/edit/master/docs/',
