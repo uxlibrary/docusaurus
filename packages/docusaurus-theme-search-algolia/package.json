@@ -12,7 +12,7 @@
     "algoliasearch-helper": "^3.1.1",
     "clsx": "^1.1.1",
     "docsearch.js": "^2.6.3",
-    "eta": "^1.1.1"
+    "eta": "^2.0.0"
   },
   "peerDependencies": {
     "@docusaurus/core": "^2.0.0",
