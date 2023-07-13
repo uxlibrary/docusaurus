@@ -13,7 +13,7 @@
   "dependencies": {
     "@docusaurus/types": "^2.0.0-alpha.56",
     "@docusaurus/utils": "^2.0.0-alpha.56",
-    "eta": "^1.1.1",
+    "eta": "^2.0.0",
     "globby": "^10.0.1",
     "yup": "^0.29.0"
   },
